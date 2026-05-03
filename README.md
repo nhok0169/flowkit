@@ -14,6 +14,18 @@
   <a href="https://deepwiki.com/tuannguyenhoangit-droid/google-flow-agent"><img src="https://img.shields.io/badge/DeepWiki-AI%20Docs-6A3BC9" alt="DeepWiki"/></a>
 </p>
 
+<p align="center">
+  <a href="docs/images/sponsor-qr-vn.jpg">
+    <img src="docs/images/sponsor-qr-vn.jpg" alt="Buy me a coffee — Vietnam QR (MoMo · VietQR · napas247)" width="280" />
+  </a><br/>
+  <sub>☕ <b>Sponsor this project</b> — 📱 Vietnam: scan QR (MoMo · VietQR · napas247).
+  International:
+  <a href="https://ko-fi.com/crisnguyen95">
+    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=kofi&logoColor=white" alt="Ko-fi" />
+  </a></sub><br/>
+  <sub><i>(yes — I moved this up here on purpose. Was afraid nobody scrolls past the badges 😅)</i></sub>
+</p>
+
 # FLOW KIT
 
 Standalone system to generate AI videos via Google Flow API. Uses a Chrome extension as browser bridge for authentication, reCAPTCHA solving, and API proxying.
@@ -711,37 +723,6 @@ From `youtube/upload.py` (HTTP errors from YouTube Data API v3):
 ## License
 
 MIT
-
----
-
-## Sponsor this project
-
-FlowKit is built and maintained as a personal local-only tool. If it
-saves you a few hours of clicking through the Flow web UI, a coffee
-goes a long way toward keeping the roadmap moving — bug fixes, new
-scene-template features, and the next round of multi-scene / TTS
-improvements all live in the same single-developer queue.
-
-<p align="center">
-  <a href="docs/images/sponsor-qr-vn.jpg">
-    <img src="docs/images/sponsor-qr-vn.jpg" alt="Buy me a coffee — Vietnam QR (MoMo · VietQR · napas247)" width="320" />
-  </a><br/>
-  <sub>📱 <b>Vietnam:</b> scan to send via MoMo · VietQR · napas247.<br/>
-  Click the QR to open it full-size if your scanner needs more pixels.</sub>
-</p>
-
-International sponsors can also support via:
-
-<p align="center">
-  <a href="https://ko-fi.com/crisnguyen95">
-    <img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge" alt="Ko-fi" />
-  </a>
-</p>
-
-Every contribution goes directly toward Google Flow Pro/Ultra
-subscription costs (the testing footprint of this project), Claude /
-Gemini API time for prompt-synth quality work, and the occasional
-bowl of phở. Thank you 🙏
 
 ---
 
